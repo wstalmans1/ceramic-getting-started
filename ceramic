@@ -1,0 +1,4 @@
+
+#!/usr/bin/env sh
+
+node /Users/wimstalmans/Documents/Coding/Learning/ceramic/ceramic-app/node_modules/.bin/ceramic "$@"
